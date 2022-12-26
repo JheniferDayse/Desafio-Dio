@@ -1,2 +1,2 @@
 # Desafio-Dio
-Site criado com as ferramentas utilizadas e aprendidas no curso de HTML
+Site criado com as ferramentas utilizadas e aprendidas no bootcamp de HTML da Digital Innovation One.
